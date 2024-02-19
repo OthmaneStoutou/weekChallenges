@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Mon premier article de blog",
+    "author": "Jean Dupont",
+    "date": "2024-02-15",
+    "content": "Ceci est le contenu de mon premier article de blog. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "tags": [
+      "blog",
+      "premier article",
+      "exemple"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Mon premier article de blog",
+    "author": "Othmane Stoutou",
+    "date": "2024-02-10",
+    "content": "Faire du sport régulièrement présente de nombreux avantages pour la santé. Cela permet de maintenir un poids santé, d'améliorer la circulation sanguine, de renforcer les muscles et les os, et même de réduire le stress et l'anxiété. Dans cet article, nous explorerons en détail les bienfaits d'une pratique sportive régulière.",
+    "tags": [
+      "sport",
+      "santé",
+      "bien-être"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Les meilleures destinations de voyage en 2024",
+    "author": "Sophie Leclerc",
+    "date": "2024-02-05",
+    "content": "Vous cherchez des idées de voyages pour cette année ? Dans cet article, je vous présente les meilleures destinations à visiter en 2024. Que vous soyez amateurs de plages paradisiaques, de paysages montagneux ou de villes historiques, vous trouverez forcément votre bonheur parmi cette sélection.",
+    "tags": [
+      "voyage",
+      "vacances",
+      "destinations"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Comment réussir son entretien d'embauche",
+    "author": "Pierre Lambert",
+    "date": "2024-01-28",
+    "content": "L'entretien d'embauche est une étape cruciale dans la recherche d'emploi. Pour mettre toutes les chances de votre côté, il est important de se préparer en amont. Dans cet article, je partage avec vous mes conseils pour réussir votre entretien d'embauche : de la préparation des réponses aux questions classiques à l'importance de soigner son apparence et sa posture.",
+    "tags": [
+      "emploi",
+      "entretien d'embauche",
+      "conseils"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Les meilleures destinations de voyage en 2024",
+    "author": "Sophie Leclerc",
+    "date": "2024-02-05",
+    "content": "coco les amis",
+    "tags": [
+      "ahmed"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Les meilleures destinations de voyage en 2024",
+    "author": "Rachid ouchaikh",
+    "date": "2024-02-17",
+    "content": "coco les amis",
+    "tags": [
+      "ahmed"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Les meilleures destinations de voyage en 2024",
+    "author": "Rachid ",
+    "date": "2024-02-17",
+    "content": "coco les amis",
+    "tags": [
+      "ahmed"
+    ]
+  }
+]
